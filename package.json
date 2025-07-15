@@ -69,7 +69,7 @@
   },
   "resolutions": {
     "postcss": "^8.4.38",
-    "postcss-functions": "^4.1.0",
+    "postcss-functions": "^4.0.2",
     "cssnano": "^5.1.15"
   }
 }
